@@ -51,7 +51,7 @@
 		"production": 1,
 		"movementCost": 1,
 		"RGB": [153, 180, 51],
-		"uniques": ["[Mounted Unit] gains [3] movement", 
+		"uniques": ["[Mounted Unit] on this terrain gains [3] movement", 
 	     "Occurs at temperature between [-0.4] and [-0.1] and humidity between [0] and [0.2]",
             "Occurs at temperature between [-0.4] and [0.4] and humidity between [0.4] and [0.6]",
             "Occurs at temperature between [0.4] and [0.5] and humidity between [0.5] and [0.6]",
