@@ -256,7 +256,7 @@
 		"unbuildable": true,
 		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],
-		"uniques": ["All adjacent units heal [+15] HP when healing", 
+		"uniques": ["All adjacent units heal [+15] HP when healing <in [Oasis] tiles>", 
 			                "Fresh water", "Rare feature",
 					"Only [All Road] improvements may be built on this tile",
 					"Always Fertility [4] for Map Generation",
@@ -278,7 +278,7 @@
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],
-		"uniques": ["All adjacent units heal [+10] HP when healing",
+		"uniques": ["All adjacent units heal [+10] HP when healing <in [Flood plains] tiles>",
 			                "Always Fertility [5] for Map Generation",
 					"Considered [Food] when determining start locations",
 					"Considered [Desirable] when determining start locations"]
