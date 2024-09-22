@@ -11,7 +11,7 @@
         "[+1] Movement <for [Mounted] units> <in [Plains] tiles>",
         "[+10] HP when healing <for [All] units> <in [Flood plains] tiles>",
         "[+15] HP when healing <for [All] units> <in [Oasis] tiles>",
-        "[-5] HP <for [All] units> when units ending their turn 5 provinces away from friendly territory"
+        "[-5] HP <for [All] units> when units ending their turn 5 tiles away from friendly territory"
 
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
