@@ -256,7 +256,7 @@
 		"unbuildable": true,
 		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],
-		"uniques": ["All adjacent units heal [+15] HP when healing <in [Oasis] tiles>", 
+		"uniques": ["[+15] HP when healing <in [Oasis] tiles>", 
 			                "Fresh water", "Rare feature",
 					"Only [All Road] improvements may be built on this tile",
 					"Always Fertility [4] for Map Generation",
