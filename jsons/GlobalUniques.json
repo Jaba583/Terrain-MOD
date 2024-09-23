@@ -11,6 +11,7 @@
         "[+1] Movement <for [Mounted] units> <in [Plains] tiles>",
         "[+10] HP when healing <for [All] units> <in [Flood plains] tiles>",
         "[+15] HP when healing <for [All] units> <in [Oasis] tiles>",
+        "[unitTriggerTarget] takes [15] damage <upon ending a turn in a [tileFilter] tile> <within [10] tiles of a [tileFilter]>",
 
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
