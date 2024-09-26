@@ -12,7 +12,6 @@
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "requires": ["Islam"],
         "uniques": ["[+1 Faith] from every [Desert]"]
     },
     {
@@ -117,6 +116,7 @@
     {
         "name": "Asceticism",
         "type": "Follower",
+        "requires": ["Islam"],
         "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
     },
     {
